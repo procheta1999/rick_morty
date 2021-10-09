@@ -9,10 +9,8 @@ const HomePage=()=>{
     const [data,setData]= useState([]);
     const [show,setShow]=useState(false);
     const [character,setCharacter]=useState({});
-    // const headers={
-    //     'x-rapidapi-host': 'tasty.p.rapidapi.com',
-    // 'x-rapidapi-key': '5d73c63f94msh03a96981e1fb15cp1dcea5jsn0a0a8662c1b6'
-    // };
+   
+    
     const getData=()=>
     {
     let axiosConfig = {
