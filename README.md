@@ -1,5 +1,6 @@
 <h1 align="center">Rick and Morty:Fan Page</h1>
-<h3 align="center">A website for Rick and Mortians where they can know about the characters, the episodes and many more.<img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png"><img src="https://img.icons8.com/plasticine/100/000000/morty-smith.png"></h3>
+<h3 align="center">A website for Rick and Mortians where they can know about the characters, the episodes and many more.
+  <br><img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png"><img src="https://img.icons8.com/plasticine/100/000000/morty-smith.png"></h3>
 
 [![Vercel](https://vercelbadge.vercel.app/api/procheta1999/rick_morty)](http://rick-morty-five.vercel.app/)
 
